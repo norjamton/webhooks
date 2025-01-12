@@ -1,0 +1,15 @@
+{
+  "name": "webflow-webhook",
+  "version": "1.0.0",
+  "main": "webflowtogithub.js",
+  "scripts": {
+    "start": "node webflowtogithub.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
